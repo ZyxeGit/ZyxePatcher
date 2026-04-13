@@ -2,7 +2,7 @@
 
 This is for use in offline play or private servers (Akatsuki.gg) that allow modifications. Use at your own risk! Modifications are disallowed on most servers, even though this project does not provide an unfair advantage.
 
-Using this on official Bancho servers WILL get you banned
+Using this on official Bancho server WILL get you banned
 
 ---
 
