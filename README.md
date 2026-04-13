@@ -1,5 +1,5 @@
 # Zyxe Patcher
-### A patcher for [Akatsuki](https://akatsuki.gg) — the osu! private server
+### Patcher for [Akatsuki](https://akatsuki.gg) — osu! private server
 
 > Based on [rushiiMachine/osu-patcher](https://github.com/rushiiMachine/osu-patcher)
 
