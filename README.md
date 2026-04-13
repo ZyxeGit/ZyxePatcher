@@ -1,6 +1,6 @@
 # Zyxe Patcher
 
-This is for use in offline play or private servers that allow modifications only. Use at your own risk! Modifications are disallowed on most servers, even though this project this does not provide an unfair advantage.
+This is for use in offline play or private servers (Akatsuki.gg) that allow modifications. Use at your own risk! Modifications are disallowed on most servers, even though this project does not provide an unfair advantage.
 
 Using this on official Bancho servers WILL get you banned
 
