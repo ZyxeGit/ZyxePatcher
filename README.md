@@ -1,5 +1,5 @@
 # Zyxe Patcher
-### Patcher for [Akatsuki](https://akatsuki.gg) — osu! private server
+### Patcher for [Akatsuki.gg](https://akatsuki.gg)
 
 > Based on [rushiiMachine/osu-patcher](https://github.com/rushiiMachine/osu-patcher)
 
@@ -16,16 +16,16 @@
 
 ## Features
 
-- **Live PP counter** — updates in real time as you play
+- **Live PP counter** — It shows your PP counter. This updates in time as you play the game.
 - **Max achievable PP** — shows the highest PP you can still get (FC from here, keeping current misses)
 - **FC PP counter** — what you'd get if you full combo'd from here at current accuracy
-- **Miss counter** — tracks misses per map
-- **PP counter grade color** — counter changes color based on your current grade
-- **Allow failing with Relax** — enables the fail screen when using the RX mod
-- **Mod audio preview** — hear DT/HT speed in song select before picking a map
+- **Miss counter** — Shows the amount of misses live with RX and AP mod
+- **PP counter grade color** — counter changes color based on your current grade for example yellow for SS and S ranks, green for A rank and so on.
+- **Allow failing with Relax** — enables the fail screen when using RX and AP mods
+- **Mod audio preview** — hear DT, NC and HT speed in song select before picking a map
 - **Position preview** — drag and drop all counter positions visually
 - **In-game settings** — configure everything directly from osu!'s options menu
-- **Auto cleanup** — all injected DLLs are removed from your osu! folder when osu closes
+- **Auto cleanup** — When you close osu! the patcher will automatically remove all the injected DLLs from your osu! folder. This is to prevent any problems when you play on the official servers.
 
 ---
 
